@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6e469eb6724dd498b58d6c0ab73d33, type: 3}
+  m_Name: Trees Minimized SO
+  m_EditorClassIdentifier: 
+  plants:
+  - {fileID: 5142532879768850087, guid: c1c027fea7a7f8247b129a01389761bb, type: 3}
+  - {fileID: 5023827496289240853, guid: c1dfa36c9f4b71b42ba5b278c5c7a559, type: 3}
+  - {fileID: 283491861412938182, guid: 38e3950da14be8b4dba080ab8e82e1bb, type: 3}
+  - {fileID: 5614180682871420595, guid: 8c241d47ba6ea614a8e2bd96b335d7aa, type: 3}
+  limit:
+    upperLimit: 0.22
+    lowerLimit: 0.09
+  abundance: 2.62
+  incementFactor: 8
+  randomizedPosition: 0
+  instantiateLotsOfIt: 0

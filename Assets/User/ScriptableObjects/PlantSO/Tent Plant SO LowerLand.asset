@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6e469eb6724dd498b58d6c0ab73d33, type: 3}
+  m_Name: Tent Plant SO LowerLand
+  m_EditorClassIdentifier: 
+  plants:
+  - {fileID: 8373386489136447969, guid: 5f38e86630875074c810a0892a1566d5, type: 3}
+  - {fileID: 3612420307159359366, guid: 9e8b36b331f6b3246a169c1a387345be, type: 3}
+  limit:
+    upperLimit: 0.01
+    lowerLimit: -2
+  abundance: 1.75
+  incementFactor: 16
+  randomizedPosition: 0

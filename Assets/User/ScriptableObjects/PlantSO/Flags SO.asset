@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6e469eb6724dd498b58d6c0ab73d33, type: 3}
+  m_Name: Flags SO
+  m_EditorClassIdentifier: 
+  plants:
+  - {fileID: 2087263956438475652, guid: 9db9de41805729046a4c1f0c946c5169, type: 3}
+  limit:
+    upperLimit: 1.5
+    lowerLimit: 0.5
+  abundance: 4.22
+  incementFactor: 7
+  randomizedPosition: 0
+  instantiateLotsOfIt: 0

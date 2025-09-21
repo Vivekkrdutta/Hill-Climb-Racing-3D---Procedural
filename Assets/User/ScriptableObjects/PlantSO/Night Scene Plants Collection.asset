@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb3dafa37fccd34492e1fe8a6512c32, type: 3}
+  m_Name: Night Scene Plants Collection
+  m_EditorClassIdentifier: 
+  plantSOs:
+  - {fileID: 11400000, guid: 7e428548194571941b5d9b4a4573ff34, type: 2}
+  - {fileID: 11400000, guid: 2ca4ab7d7a8534640888d3ce6e453e28, type: 2}
+  - {fileID: 11400000, guid: ad5c41e091ce4e94382ac2eb8402bdb9, type: 2}
+  - {fileID: 11400000, guid: b1cfc4b3407a76247850bb5990c18b40, type: 2}
+  - {fileID: 11400000, guid: 2a2afcc03fcb6c14fa97a87e8353f4ed, type: 2}

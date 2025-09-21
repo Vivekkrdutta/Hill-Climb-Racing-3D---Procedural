@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6e469eb6724dd498b58d6c0ab73d33, type: 3}
+  m_Name: Dead Trees sand LowerLand
+  m_EditorClassIdentifier: 
+  plants:
+  - {fileID: 1026458569961579446, guid: bf1b919f4c08b1644b52ec8303dc8604, type: 3}
+  - {fileID: 455957966157736352, guid: 4ca7a6eba8091dd469cc5f8012ac5cf9, type: 3}
+  - {fileID: 4114348814129731227, guid: 1f71975d7297a0e498f6ff0f1d0480e1, type: 3}
+  limit:
+    upperLimit: 0.01
+    lowerLimit: -2
+  abundance: 3.2
+  incementFactor: 8
+  randomizedPosition: 0
+  instantiateLotsOfIt: 0

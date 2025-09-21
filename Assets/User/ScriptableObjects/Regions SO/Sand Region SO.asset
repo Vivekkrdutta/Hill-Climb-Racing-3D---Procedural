@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02418e70d62a05409242b22d1a2f0be, type: 3}
+  m_Name: Sand Region SO
+  m_EditorClassIdentifier: 
+  regions:
+  - name: 
+    color: {r: 0.8792453, g: 0.50678885, b: 0, a: 1}
+    height: 0
+  - name: 
+    color: {r: 0.5396226, g: 0.34128296, b: 0, a: 1}
+    height: 0.05
+  - name: 
+    color: {r: 0.4792453, g: 0.35664767, b: 0, a: 1}
+    height: 0.1
+  - name: 
+    color: {r: 0.5018867, g: 0.35297528, b: 0, a: 1}
+    height: 0.19
+  - name: 
+    color: {r: 0.4113207, g: 0.28301883, b: 0, a: 1}
+    height: 0.25
+  - name: 
+    color: {r: 0.4188679, g: 0.2823309, b: 0, a: 1}
+    height: 0.35
+  - name: 
+    color: {r: 0.4037736, g: 0.2807445, b: 0, a: 1}
+    height: 1
